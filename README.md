@@ -17,23 +17,23 @@ The Historical Document Repository aims to serve as a digital archive for histor
 
 ## Application Features and Functionalities
 
-1) Document Upload
+1) `Document Upload`
 -	Interface: A form to upload document files and enter metadata (e.g., title, author, date).
 -	Storage: Documents will be stored in a designated server folder, while metadata will be saved in a CSV file.
 
-2) Search Functionality
+2) `Search Functionality`
 -	Search by Keywords: Users can search documents by keywords in the metadata.
 -	Search by Categories: Users can filter documents based on predefined categories like document type, era, or author.
 
-3) Document Viewing and Downloading
+3) `Document Viewing and Downloading`
 -	Viewing: Users can view a list of documents that match their search criteria.
 -	Downloading: Documents can be downloaded directly from the repository.
 
-4) Edit Metadata
+4) `Edit Metadata`
 -	Editable Fields: Users can edit metadata for each document, such as title or author.
 -	Updates: Metadata updates are reflected immediately in the CSV file.
 
-5) Delete Documents
+5) `Delete Documents`
 -	Deletion: Users can delete documents. This includes both the document file and its associated metadata.
 
 
