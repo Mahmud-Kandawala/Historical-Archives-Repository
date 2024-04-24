@@ -1,4 +1,4 @@
-# Historical Archives Repository
+# Historical Documents Repository
 
 
 The Historical Document Repository aims to serve as a digital archive for historical documents such as letters, speeches, videos, and images. The application will allow users to upload, search, view, and download documents. It will also support editing metadata and deleting outdated documents. This project will utilize the Model-View-Controller (MVC) paradigm to ensure a clean separation of concerns, making it maintainable and scalable.
