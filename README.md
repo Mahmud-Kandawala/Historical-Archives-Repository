@@ -6,9 +6,9 @@ The Historical Document Repository aims to serve as a digital archive for histor
 
 <img src="img/login.png" alt="Image 1" style="width: 100%; height: auto;" />
 <img src="img/home.png" alt="Image 2" style="width: 100%; height: auto;" />
----------------------<img src="img/upload.png" alt="Image 3" style="width: 70%; height: auto;" />
----------------------<img src="img/search.png" alt="Image 4" style="width: 70%; height: auto;" />
----------------------<img src="img/edit.png" alt="Image 5" style="width: 70%; height: auto;" />
+<img src="img/upload.png" alt="Image 3" style="width: 70%; height: auto;" />
+<img src="img/search.png" alt="Image 4" style="width: 70%; height: auto;" />
+<img src="img/edit.png" alt="Image 5" style="width: 70%; height: auto;" />
 <img src="img/download.png" alt="Image 6" style="width: 100%; height: auto;" />
 
 
