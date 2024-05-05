@@ -47,3 +47,7 @@ The Historical Document Repository aims to serve as a digital archive for histor
 -	Frontend: HTML, CSS, & JavaScript
 -	Backend: Flask, a Python micro web framework, used for server-side logic. 
 -	Database: SQLAlchemy ORM for database management, interfacing with SQLite.
+  
+
+## Note
+Regrettably, this project cannot be executed due to the presence of confidential student and organizational information. Prior to uploading, certain files and data had to be carefully removed
