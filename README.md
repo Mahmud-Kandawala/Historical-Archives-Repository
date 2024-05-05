@@ -6,13 +6,13 @@ The Historical Document Repository aims to serve as a digital archive for histor
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <div style="flex: 0 1 48%; margin-bottom: 10px;">
-        <img src="img/login.png" alt="Image 1" style="width: 100%; height: auto;" />
+        <img src="img/login.png" alt="Image 1"style="width: 100%; max-width: 200px; height: 200px;" />
     </div>
     <div style="flex: 0 1 48%; margin-bottom: 10px;">
         <img src="img/home.png" alt="Image 2" style="width: 100%; height: auto;" />
     </div>
     <div style="flex: 0 1 48%; margin-bottom: 10px;">
-        <img src="img/upload.png" alt="Image 3" style="width: 100%; height: auto;" />
+        <img src="img/upload.png" alt="Image 3" style="width: 90%; max-width: 200px; height: 200px;" />
     </div>
     <div style="flex: 0 1 48%; margin-bottom: 10px;">
         <img src="img/search.png" alt="Image 4" style="width: 100%; height: auto;" />
