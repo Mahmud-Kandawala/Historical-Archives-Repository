@@ -1,7 +1,30 @@
 # Historical Documents Repository
 
-
 The Historical Document Repository aims to serve as a digital archive for historical documents such as letters, speeches, videos, and images. The application will allow users to upload, search, view, and download documents. It will also support editing metadata and deleting outdated documents. This project will utilize the Model-View-Controller (MVC) paradigm to ensure a clean separation of concerns, making it maintainable and scalable.
+
+# Images
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <div style="flex: 0 1 48%; margin-bottom: 10px;">
+        <img src="img/login.png" alt="Image 1" style="width: 100%; height: auto;" />
+    </div>
+    <div style="flex: 0 1 48%; margin-bottom: 10px;">
+        <img src="img/home.png" alt="Image 2" style="width: 100%; height: auto;" />
+    </div>
+    <div style="flex: 0 1 48%; margin-bottom: 10px;">
+        <img src="img/upload.png" alt="Image 3" style="width: 100%; height: auto;" />
+    </div>
+    <div style="flex: 0 1 48%; margin-bottom: 10px;">
+        <img src="img/search.png" alt="Image 4" style="width: 100%; height: auto;" />
+    </div>
+    <div style="flex: 0 1 48%; margin-bottom: 10px;">
+        <img src="img/edit.png" alt="Image 5" style="width: 100%; height: auto;" />
+    </div>
+    <div style="flex: 0 1 48%; margin-bottom: 10px;">
+        <img src="img/download.png" alt="Image 6" style="width: 100%; height: auto;" />
+    </div>
+</div>
+
 
 ## Objectives
 -	To provide a centralized platform for storing and retrieving historical documents.
